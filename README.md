@@ -1,4 +1,4 @@
-# Software-Convergence-Project
+# Drowsiness_Detect with Rasberry pi 4b
 
 1. 과제 개요 : 
  자동차는 현대사회에 이르러 인간의 삶과 매우 밀접하게 연관되어 있다. 삶의 질을 향상시키고 이동 시간을 줄여주지만 자동차가 만들어낸 심각한 문제점이 있다. 바로 졸음운전으로 인한 교통사고이다. 
